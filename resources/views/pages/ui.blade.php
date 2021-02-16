@@ -1,0 +1,1 @@
+admin blade! {{ 1 + 6 }}

@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\PC\Documents\reevou\wp-content\plugins\boilerplate\resources\views/pages/data.blade.php ENDPATH**/ ?>

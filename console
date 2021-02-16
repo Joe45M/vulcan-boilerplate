@@ -1,0 +1,26 @@
+#!/usr/bin/env php
+<?php
+
+/*
+ |--------------------------------------------------------------------------
+ | Boot
+ |--------------------------------------------------------------------------
+ |
+ | Boot WordPress and autoloaders.
+ |
+*/
+
+require_once "../../../wp-load.php";
+require './vendor/autoload.php';
+
+
+/*
+ |--------------------------------------------------------------------------
+ | Register console interface
+ |--------------------------------------------------------------------------
+ |
+ | Create an instance of the console.
+ |
+*/
+
+$interface = new \Vulcan\Console\Console( $argv );
