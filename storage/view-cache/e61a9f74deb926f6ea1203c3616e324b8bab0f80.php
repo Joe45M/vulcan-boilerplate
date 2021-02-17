@@ -1,1 +1,0 @@
-admin blade! <?php echo e(1 + 6); ?><?php /**PATH C:\Users\PC\Documents\reevou\wp-content\plugins\boilerplate\resources\views/pages/ui.blade.php ENDPATH**/ ?>

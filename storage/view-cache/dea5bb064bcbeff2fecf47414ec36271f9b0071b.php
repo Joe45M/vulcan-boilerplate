@@ -1,1 +1,0 @@
-<?php echo e($name); ?><?php /**PATH C:\Users\PC\Documents\reevou\wp-content\plugins\boilerplate\resources\views/shortcodes/shortcode.blade.php ENDPATH**/ ?>
